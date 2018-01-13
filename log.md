@@ -41,9 +41,20 @@
 
 **Today's Progress**: I've gone through exercises from FreeCodeCamp.
 
-**Thoughts:** I had to use a lot of RegEx to solve the problems. Getting used to seeing the conventions.
+**Thoughts:** I had to use a lot of RegEx to solve the problems. Getting used to the conventions.
 
 **Link to work:**
 1. [Convert HTML Entities](https://www.freecodecamp.org/challenges/convert-html-entities)
 2. [Spinal Tap Case](https://www.freecodecamp.org/challenges/spinal-tap-case)
 3. [Sum All Fibonacci Numbers](https://www.freecodecamp.org/challenges/sum-all-odd-fibonacci-numbers)
+
+### Day 5: January 12, 2017
+
+**Today's Progress**: I've gone through exercises from FreeCodeCamp.
+
+**Thoughts:** These problems involved with math Fundamentals. 
+
+**Link to work:**
+1. [Sum All Primes](https://www.freecodecamp.org/challenges/sum-all-primes)
+2. [Smallest Common Multiple](https://www.freecodecamp.org/challenges/smallest-common-multiple)
+3. [Finders Keepers](https://www.freecodecamp.org/challenges/finders-keepers)
