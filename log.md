@@ -52,9 +52,21 @@
 
 **Today's Progress**: I've gone through exercises from FreeCodeCamp.
 
-**Thoughts:** These problems involved with math Fundamentals. 
+**Thoughts:** These problems involved with math Fundamentals.
 
 **Link to work:**
 1. [Sum All Primes](https://www.freecodecamp.org/challenges/sum-all-primes)
 2. [Smallest Common Multiple](https://www.freecodecamp.org/challenges/smallest-common-multiple)
 3. [Finders Keepers](https://www.freecodecamp.org/challenges/finders-keepers)
+
+### Day 6: January 13, 2017
+
+**Today's Progress**: I've gone through exercises from FreeCodeCamp and started a project on FreeCodeCamp.
+
+**Thoughts:** I had to search programming concepts, like how to convert binary to unicode and flatten a deep nested array. I started building a basic layout to get things rolling.
+
+**Link to work:**
+1. [Drop It](https://www.freecodecamp.org/challenges/drop-it)
+2. [Steamroller](https://www.freecodecamp.org/challenges/steamroller)
+3. [Binary Agents](https://www.freecodecamp.org/challenges/binary-agents)
+4. [Stuff Bojack Says](https://www.freecodecamp.org/challenges/build-a-random-quote-machine)
