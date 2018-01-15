@@ -70,3 +70,13 @@
 2. [Steamroller](https://www.freecodecamp.org/challenges/steamroller)
 3. [Binary Agents](https://www.freecodecamp.org/challenges/binary-agents)
 4. [Stuff Bojack Says](https://www.freecodecamp.org/challenges/build-a-random-quote-machine)
+
+### Day 7: January 14, 2017
+
+**Today's Progress**: I've gone through exercises from FreeCodeCamp.
+
+**Thoughts:** Its taking me more than an hour to solve the challenges. I have one more challenge to complete the Intermediate Algorithm Scripting. I'm still working on Arguments Optional. I'm trying to implement a Closure in my program.
+
+**Link to work:**
+1. [Everything Be True](https://www.freecodecamp.org/challenges/everything-be-true)
+2. [Arguments Optional](https://www.freecodecamp.org/challenges/arguments-optional)
