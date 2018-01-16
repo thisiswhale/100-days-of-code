@@ -69,7 +69,7 @@
 1. [Drop It](https://www.freecodecamp.org/challenges/drop-it)
 2. [Steamroller](https://www.freecodecamp.org/challenges/steamroller)
 3. [Binary Agents](https://www.freecodecamp.org/challenges/binary-agents)
-4. [Stuff Bojack Says](https://www.freecodecamp.org/challenges/build-a-random-quote-machine)
+4. [Stuff Bojack Says](https://github.com/thisiswhale/Stuff-Bojack-Says)
 
 ### Day 7: January 14, 2017
 
@@ -79,4 +79,14 @@
 
 **Link to work:**
 1. [Everything Be True](https://www.freecodecamp.org/challenges/everything-be-true)
+2. [Arguments Optional](https://www.freecodecamp.org/challenges/arguments-optional)
+
+### Day 8: January 15, 2017
+
+**Today's Progress**: I've gone through exercises from FreeCodeCamp and completed the functionality part of Stuff BoJack Horseman Says .
+
+**Thoughts:** I'm starting to understand how Closures work. I had to look at the hints and answers since I had trouble organizing what the problem is asking. It's been a while I worked with getting JavaScript to connect to the Html DOM. I'm rough around the edges for now.
+
+**Link to work:**
+1. [Stuff BoJack Says](https://github.com/thisiswhale/Stuff-Bojack-Says)
 2. [Arguments Optional](https://www.freecodecamp.org/challenges/arguments-optional)
