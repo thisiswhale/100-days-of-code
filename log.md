@@ -90,3 +90,14 @@
 **Link to work:**
 1. [Stuff BoJack Says](https://github.com/thisiswhale/Stuff-Bojack-Says)
 2. [Arguments Optional](https://www.freecodecamp.org/challenges/arguments-optional)
+
+### Day 9: January 16, 2017
+
+**Today's Progress**:I did some problems on CodeWars and started out how to layout my CSS for Stuff Bojack Says.
+
+**Thoughts:** I'm getting the hang of organizing my CSS code. I used to feel overwhelmed but I'm glad I'm reviewing it and see things I overlooked. I really want to move up my rank to 5 kyu. Currently at 6 kyu.
+
+**Link to work:**
+1. [Dashatize it](https://www.codewars.com/kata/58223370aef9fc03fd000071)
+2. [Human Readable Time](https://www.codewars.com/kata/52685f7382004e774f0001f7)
+3. [Stuff BoJack Says](https://github.com/thisiswhale/Stuff-Bojack-Says)
