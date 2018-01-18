@@ -101,3 +101,14 @@
 1. [Dashatize it](https://www.codewars.com/kata/58223370aef9fc03fd000071)
 2. [Human Readable Time](https://www.codewars.com/kata/52685f7382004e774f0001f7)
 3. [Stuff BoJack Says](https://github.com/thisiswhale/Stuff-Bojack-Says)
+
+### Day 10: January 17, 2017
+
+**Today's Progress**:I did some problems on CodeWars and continued working on Stuff Bojack Says.
+
+**Thoughts:** I finally ranked up to 5 kyu on CodeWars. They are very tough and I get frustrated, but it feels good to complete it. I added a background to my site and I'm trying to figure out the positioning.
+
+**Link to work:**
+1. [If you can read this...](https://www.codewars.com/kata/586538146b56991861000293)
+2. [First Variation on Caesar Cipher](https://www.codewars.com/kata/5508249a98b3234f420000fb/train/javascript)
+3. [Stuff BoJack Says](https://github.com/thisiswhale/Stuff-Bojack-Says)
