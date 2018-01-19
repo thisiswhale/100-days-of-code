@@ -112,3 +112,15 @@
 1. [If you can read this...](https://www.codewars.com/kata/586538146b56991861000293)
 2. [First Variation on Caesar Cipher](https://www.codewars.com/kata/5508249a98b3234f420000fb/train/javascript)
 3. [Stuff BoJack Says](https://github.com/thisiswhale/Stuff-Bojack-Says)
+
+### Day 11: January 18, 2017
+
+**Today's Progress**:I did some problems on CodeWars and submitted Stuff Bojack Says to FreeCodeCamp. I'm starting create a simple weather app for next FreeCodeCamp project and laying out the setup.
+
+**Thoughts:** I feel very productive and learned a lot about styling my websites. Even though its a refresher, its a good idea I come back to learn when my brain wasn't crammed with info overload when I did my coding bootcamp. Problems from Codewars were good morning and afternoon exercises to get my brain working.
+
+**Link to work:**
+1. [Persistent Bug](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec)
+2. [Exclamation marks series #17: Put the exclamation marks and question marks to the balance, Are they balanced?](https://www.codewars.com/kata/57fb44a12b53146fe1000136)
+3. [Stuff BoJack Says](https://github.com/thisiswhale/Stuff-Bojack-Says)
+4. [Do I want to go out?](https://github.com/thisiswhale/Do-I-want-to-go-out)
