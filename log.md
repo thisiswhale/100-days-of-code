@@ -124,3 +124,13 @@
 2. [Exclamation marks series #17: Put the exclamation marks and question marks to the balance, Are they balanced?](https://www.codewars.com/kata/57fb44a12b53146fe1000136)
 3. [Stuff BoJack Says](https://github.com/thisiswhale/Stuff-Bojack-Says)
 4. [Do I want to go out?](https://github.com/thisiswhale/Do-I-want-to-go-out)
+
+### Day 11: January 18, 2017
+
+**Today's Progress**:I did some problems on CodeWars.
+
+**Thoughts:** I didn't have spare time to work my website projects. I spend a few hours working on CodeWars problems. Took me while to solve it. A lightbulb struck and realized I made a bad assumption. Because of that, I wasted a lot of time on solving the wrong way.
+
+**Link to work:**
+1. [Best Travel](https://www.codewars.com/kata/55e7280b40e1c4a06d0000aa)
+2. [A Man and his Umbrellas](https://www.codewars.com/kata/58298e19c983caf4ba000c8d)
