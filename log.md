@@ -125,7 +125,7 @@
 3. [Stuff BoJack Says](https://github.com/thisiswhale/Stuff-Bojack-Says)
 4. [Do I want to go out?](https://github.com/thisiswhale/Do-I-want-to-go-out)
 
-### Day 11: January 18, 2017
+### Day 12: January 19, 2017
 
 **Today's Progress**:I did some problems on CodeWars.
 
@@ -134,3 +134,13 @@
 **Link to work:**
 1. [Best Travel](https://www.codewars.com/kata/55e7280b40e1c4a06d0000aa)
 2. [A Man and his Umbrellas](https://www.codewars.com/kata/58298e19c983caf4ba000c8d)
+
+### Day 13: January 20, 2017
+
+**Today's Progress**:I did a problem on CodeWars and built the JavaScript files for the weather app.
+
+**Thoughts:** I wasn't in the mood to code today, but I pushed myself by solving just one problem on CodeWars and eventually I wanted to work on the weather app. I got the JavaScript to work. Now, I need to make it look nice.
+
+**Link to work:**
+1. [Simple Fun #166 Best Match](https://www.codewars.com/kata/58b38256e51f1c2af0000081)
+2. [Do I want to go out?](https://github.com/thisiswhale/Do-I-want-to-go-out)
