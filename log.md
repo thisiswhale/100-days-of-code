@@ -144,3 +144,12 @@
 **Link to work:**
 1. [Simple Fun #166 Best Match](https://www.codewars.com/kata/58b38256e51f1c2af0000081)
 2. [Do I want to go out?](https://github.com/thisiswhale/Do-I-want-to-go-out)
+
+### Day 14: January 21, 2017
+
+**Today's Progress**:I'm styling the weather app.
+
+**Thoughts:** I had a busy Sunday and I started styling at late evening. I got irritated at some fundamentals I learn to center my divs doesn't seem to work. But I got my divs to go where I wanted. I think CSS is my biggest weakness since its a blank canvas to start. I getting the hang of it. Its hard to keep coding when your exhausted from the whole day.
+
+**Link to work:**
+1. [Do I want to go out?](https://github.com/thisiswhale/Do-I-want-to-go-out)
