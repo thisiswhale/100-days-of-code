@@ -147,9 +147,21 @@
 
 ### Day 14: January 21, 2017
 
-**Today's Progress**:I'm styling the weather app.
+**Today's Progress**:I styled the weather app.
 
-**Thoughts:** I had a busy Sunday and I started styling at late evening. I got irritated at some fundamentals I learn to center my divs doesn't seem to work. But I got my divs to go where I wanted. I think CSS is my biggest weakness since its a blank canvas to start. I getting the hang of it. Its hard to keep coding when your exhausted from the whole day.
+**Thoughts:** I had a busy Sunday and I started styling at late evening. I got irritated at some fundamentals I learn to center my divs doesn't seem to work. But I got my divs to go where I wanted. I think CSS is my biggest weakness since its a blank canvas to start. I getting the hang of it. Its hard to keep coding after an exhausted day.
 
 **Link to work:**
 1. [Do I want to go out?](https://github.com/thisiswhale/Do-I-want-to-go-out)
+
+### Day 15: January 22, 2017
+
+**Today's Progress**:I finished the weather app, started the next project, Wikipedia viewer, and did some problems on FreeCodeCamp.
+
+**Thoughts:** I didn't think my weather app took longer than I thought. I like how it turned out. I decided to do some advanced problems on FreeCodeCamp to get the Front-end certificate. Wikipedia's API documentation is difficult to understand.
+
+**Link to work:**
+1. [Do I want to go out?](https://github.com/thisiswhale/Do-I-want-to-go-out)
+2. [WikiWhat Now?](https://github.com/thisiswhale/WikiWhat-Now)
+3. [Validate US Telephone Numbers](https://www.freecodecamp.org/challenges/validate-us-telephone-numbers)
+4. [Record Collection](https://www.freecodecamp.org/challenges/record-collection)
