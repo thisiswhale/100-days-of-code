@@ -165,3 +165,12 @@
 2. [WikiWhat Now?](https://github.com/thisiswhale/WikiWhat-Now)
 3. [Validate US Telephone Numbers](https://www.freecodecamp.org/challenges/validate-us-telephone-numbers)
 4. [Record Collection](https://www.freecodecamp.org/challenges/record-collection)
+
+### Day 16: January 23, 2017
+
+**Today's Progress**:I learned how Wikipedia's API works and implemented into my project. Solving a problem from FreeCodeCamp.
+
+**Thoughts:** After many gatherings, Wikipedia's API is not an east documentation to read. Thanks to google, I was able to get the right JSON file I wanted from Mr.Wiki. Also, I'm having a challenge to program Symmetric Difference. I'm still figuring out the logic.
+
+1. [WikiWhat Now?](https://github.com/thisiswhale/WikiWhat-Now)
+2. [Symmetric Difference](https://www.freecodecamp.org/challenges/symmetric-difference)
