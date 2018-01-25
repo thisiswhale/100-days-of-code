@@ -168,9 +168,19 @@
 
 ### Day 16: January 23, 2017
 
-**Today's Progress**:I learned how Wikipedia's API works and implemented into my project. Solving a problem from FreeCodeCamp.
+**Today's Progress**:I learned how Wikipedia's API works and implemented into my project. Solved a problem from FreeCodeCamp.
 
 **Thoughts:** After many gatherings, Wikipedia's API is not an east documentation to read. Thanks to google, I was able to get the right JSON file I wanted from Mr.Wiki. Also, I'm having a challenge to program Symmetric Difference. I'm still figuring out the logic.
 
 1. [WikiWhat Now?](https://github.com/thisiswhale/WikiWhat-Now)
 2. [Symmetric Difference](https://www.freecodecamp.org/challenges/symmetric-difference)
+
+### Day 17: January 24, 2017
+
+**Today's Progress**: I was able to get JSON results from wiki to render to the page. Solved a problem from FreeCodeCamp.
+
+**Thoughts:** I found a issue where Wiki's endpoints is an object and I could not push the whole object to an array. I try to figure out different ways how to render to the DOM when its JSON returns an object or an array and how to convert an object to an array. I felt I was progressing slow because of this issue. As for the algorithms, I had to look up the answer. I feel I know how to code it, but I wanted to code a cleaner way. The next problem is not tough but it involves alot of typing code. I haven't finished that yet.
+
+1. [WikiWhat Now?](https://github.com/thisiswhale/WikiWhat-Now)
+2. [Symmetric Difference](https://www.freecodecamp.org/challenges/symmetric-difference)
+3. [Exact Change](https://www.freecodecamp.org/challenges/exact-change)
