@@ -184,3 +184,11 @@
 1. [WikiWhat Now?](https://github.com/thisiswhale/WikiWhat-Now)
 2. [Symmetric Difference](https://www.freecodecamp.org/challenges/symmetric-difference)
 3. [Exact Change](https://www.freecodecamp.org/challenges/exact-change)
+
+### Day 18: January 25, 2017
+
+**Today's Progress**: Solved bugs on rendering issues from json to html DOM and refractoring.
+
+**Thoughts:** I was out the entire day and I tried to do as much with little free time within the day. I forgot that the fetch command is an asynchronous method that gave me return issues for my project to work.
+
+1. [WikiWhat Now?](https://github.com/thisiswhale/WikiWhat-Now)
