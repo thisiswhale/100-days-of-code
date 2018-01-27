@@ -192,3 +192,11 @@
 **Thoughts:** I was out the entire day and I tried to do as much with little free time within the day. I forgot that the fetch command is an asynchronous method that gave me return issues for my project to work.
 
 1. [WikiWhat Now?](https://github.com/thisiswhale/WikiWhat-Now)
+
+### Day 19: January 26, 2017
+
+**Today's Progress**: Completed WikiWhat Now projects. Did the styling and little fun animation.
+
+**Thoughts:** I'm happy the way it turned out. Animating the moving search bar took a while to understand I finally got it to work. I have one more last intermediate project.
+
+1. [WikiWhat Now?](https://github.com/thisiswhale/WikiWhat-Now)
