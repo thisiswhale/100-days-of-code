@@ -200,3 +200,11 @@
 **Thoughts:** I'm happy the way it turned out. Animating the moving search bar took a while to understand I finally got it to work. I have one more last intermediate project.
 
 1. [WikiWhat Now?](https://github.com/thisiswhale/WikiWhat-Now)
+
+### Day 20: January 27, 2017
+
+**Today's Progress**: Started Twitch API project.
+
+**Thoughts:** Twitch's API documentation wasn't as bad as Wikipedia's. I managed to get the data and started planning the layout for the site.
+
+1. [Who's on Twitch](https://github.com/thisiswhale/Whos-on-Twitch)
