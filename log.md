@@ -208,3 +208,11 @@
 **Thoughts:** Twitch's API documentation wasn't as bad as Wikipedia's. I managed to get the data and started planning the layout for the site.
 
 1. [Who's on Twitch](https://github.com/thisiswhale/Whos-on-Twitch)
+
+### Day 21: January 28, 2017
+
+**Today's Progress**: Used two fetch commands to place data into one array. Attempt to render into html dom.
+
+**Thoughts:** Because of fetch async conditions, the programming is giving out of order results. I've been trying to figure out how to do something after an important step is complete.
+
+1. [Who's on Twitch](https://github.com/thisiswhale/Whos-on-Twitch)
