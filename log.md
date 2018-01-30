@@ -216,3 +216,11 @@
 **Thoughts:** Because of fetch async conditions, the programming is giving out of order results. I've been trying to figure out how to do something after an important step is complete.
 
 1. [Who's on Twitch](https://github.com/thisiswhale/Whos-on-Twitch)
+
+### Day 22: January 29, 2017
+
+**Today's Progress**: Display the data to HTML.
+
+**Thoughts:** Took a while to figure it out, but I managed to get the data to display to the html. I learned createElement is a node that can be used once and is not a copy.
+
+1. [Who's on Twitch](https://github.com/thisiswhale/Whos-on-Twitch)
