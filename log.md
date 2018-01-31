@@ -224,3 +224,11 @@
 **Thoughts:** Took a while to figure it out, but I managed to get the data to display to the html. I learned createElement is a node that can be used once and is not a copy.
 
 1. [Who's on Twitch](https://github.com/thisiswhale/Whos-on-Twitch)
+
+### Day 22: January 29, 2017
+
+**Today's Progress**: Styling on Who's on Twitch.
+
+**Thoughts:** I have issues to position the inner divs for the streamer's info. Its all out of place. I managed to get a nice temporary border and fixed some layouts.
+
+1. [Who's on Twitch](https://github.com/thisiswhale/Whos-on-Twitch)
