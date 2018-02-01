@@ -225,10 +225,18 @@
 
 1. [Who's on Twitch](https://github.com/thisiswhale/Whos-on-Twitch)
 
-### Day 22: January 29, 2017
+### Day 23: January 30, 2017
 
 **Today's Progress**: Styling on Who's on Twitch.
 
 **Thoughts:** I have issues to position the inner divs for the streamer's info. Its all out of place. I managed to get a nice temporary border and fixed some layouts.
+
+1. [Who's on Twitch](https://github.com/thisiswhale/Whos-on-Twitch)
+
+### Day 24: January 31, 2017
+
+**Today's Progress**: Basic styling on Who's on Twitch.
+
+**Thoughts:** I added a tab bar to filter who's online and offline. I finally got my profile layout to show how I wanted.
 
 1. [Who's on Twitch](https://github.com/thisiswhale/Whos-on-Twitch)
