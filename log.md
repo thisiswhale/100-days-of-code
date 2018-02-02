@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: January 8, 2017
+### Day 0: January 8, 2018
 
 **Today's Progress**: I've gone through exercises from FreeCodeCamp and CodeWars.
 
@@ -11,7 +11,7 @@
 2. [Sum All Numbers in a Range](https://www.freecodecamp.org/challenges/sum-all-numbers-in-a-range)
 3. [Diff Two Arrays](https://www.freecodecamp.org/challenges/diff-two-arrays#)
 
-### Day 1: January 9, 2017
+### Day 1: January 9, 2018
 
 **Today's Progress**: I've gone through exercises from FreeCodeCamp and CodeWars.
 
@@ -22,7 +22,7 @@
 2. [Roman Numeral Converter](https://www.freecodecamp.org/challenges/roman-numeral-converter)
 3. [Wherefore art thou](https://www.freecodecamp.org/challenges/wherefore-art-thou)
 
-### Day 3: January 10, 2017
+### Day 3: January 10, 2018
 
 **Today's Progress**: I've gone through exercises from FreeCodeCamp and CodeWars.
 
@@ -37,7 +37,7 @@
 6. [Sorted Union](https://www.freecodecamp.org/challenges/sorted-union)
 7. [Number of trailing zeros of N!](https://www.codewars.com/kata/52f787eb172a8b4ae1000a34)
 
-### Day 4: January 11, 2017
+### Day 4: January 11, 2018
 
 **Today's Progress**: I've gone through exercises from FreeCodeCamp.
 
@@ -48,7 +48,7 @@
 2. [Spinal Tap Case](https://www.freecodecamp.org/challenges/spinal-tap-case)
 3. [Sum All Fibonacci Numbers](https://www.freecodecamp.org/challenges/sum-all-odd-fibonacci-numbers)
 
-### Day 5: January 12, 2017
+### Day 5: January 12, 2018
 
 **Today's Progress**: I've gone through exercises from FreeCodeCamp.
 
@@ -59,7 +59,7 @@
 2. [Smallest Common Multiple](https://www.freecodecamp.org/challenges/smallest-common-multiple)
 3. [Finders Keepers](https://www.freecodecamp.org/challenges/finders-keepers)
 
-### Day 6: January 13, 2017
+### Day 6: January 13, 2018
 
 **Today's Progress**: I've gone through exercises from FreeCodeCamp and started a project on FreeCodeCamp.
 
@@ -71,7 +71,7 @@
 3. [Binary Agents](https://www.freecodecamp.org/challenges/binary-agents)
 4. [Stuff Bojack Says](https://github.com/thisiswhale/Stuff-Bojack-Says)
 
-### Day 7: January 14, 2017
+### Day 7: January 14, 2018
 
 **Today's Progress**: I've gone through exercises from FreeCodeCamp.
 
@@ -81,7 +81,7 @@
 1. [Everything Be True](https://www.freecodecamp.org/challenges/everything-be-true)
 2. [Arguments Optional](https://www.freecodecamp.org/challenges/arguments-optional)
 
-### Day 8: January 15, 2017
+### Day 8: January 15, 2018
 
 **Today's Progress**: I've gone through exercises from FreeCodeCamp and completed the functionality part of Stuff BoJack Horseman Says .
 
@@ -91,7 +91,7 @@
 1. [Stuff BoJack Says](https://github.com/thisiswhale/Stuff-Bojack-Says)
 2. [Arguments Optional](https://www.freecodecamp.org/challenges/arguments-optional)
 
-### Day 9: January 16, 2017
+### Day 9: January 16, 2018
 
 **Today's Progress**:I did some problems on CodeWars and started out how to layout my CSS for Stuff Bojack Says.
 
@@ -102,7 +102,7 @@
 2. [Human Readable Time](https://www.codewars.com/kata/52685f7382004e774f0001f7)
 3. [Stuff BoJack Says](https://github.com/thisiswhale/Stuff-Bojack-Says)
 
-### Day 10: January 17, 2017
+### Day 10: January 17, 2018
 
 **Today's Progress**:I did some problems on CodeWars and continued working on Stuff Bojack Says.
 
@@ -113,7 +113,7 @@
 2. [First Variation on Caesar Cipher](https://www.codewars.com/kata/5508249a98b3234f420000fb/train/javascript)
 3. [Stuff BoJack Says](https://github.com/thisiswhale/Stuff-Bojack-Says)
 
-### Day 11: January 18, 2017
+### Day 11: January 18, 2018
 
 **Today's Progress**:I did some problems on CodeWars and submitted Stuff Bojack Says to FreeCodeCamp. I'm starting create a simple weather app for next FreeCodeCamp project and laying out the setup.
 
@@ -125,7 +125,7 @@
 3. [Stuff BoJack Says](https://github.com/thisiswhale/Stuff-Bojack-Says)
 4. [Do I want to go out?](https://github.com/thisiswhale/Do-I-want-to-go-out)
 
-### Day 12: January 19, 2017
+### Day 12: January 19, 2018
 
 **Today's Progress**:I did some problems on CodeWars.
 
@@ -135,7 +135,7 @@
 1. [Best Travel](https://www.codewars.com/kata/55e7280b40e1c4a06d0000aa)
 2. [A Man and his Umbrellas](https://www.codewars.com/kata/58298e19c983caf4ba000c8d)
 
-### Day 13: January 20, 2017
+### Day 13: January 20, 2018
 
 **Today's Progress**:I did a problem on CodeWars and built the JavaScript files for the weather app.
 
@@ -145,7 +145,7 @@
 1. [Simple Fun #166 Best Match](https://www.codewars.com/kata/58b38256e51f1c2af0000081)
 2. [Do I want to go out?](https://github.com/thisiswhale/Do-I-want-to-go-out)
 
-### Day 14: January 21, 2017
+### Day 14: January 21, 2018
 
 **Today's Progress**:I styled the weather app.
 
@@ -154,7 +154,7 @@
 **Link to work:**
 1. [Do I want to go out?](https://github.com/thisiswhale/Do-I-want-to-go-out)
 
-### Day 15: January 22, 2017
+### Day 15: January 22, 2018
 
 **Today's Progress**:I finished the weather app, started the next project, Wikipedia viewer, and did some problems on FreeCodeCamp.
 
@@ -166,7 +166,7 @@
 3. [Validate US Telephone Numbers](https://www.freecodecamp.org/challenges/validate-us-telephone-numbers)
 4. [Record Collection](https://www.freecodecamp.org/challenges/record-collection)
 
-### Day 16: January 23, 2017
+### Day 16: January 23, 2018
 
 **Today's Progress**:I learned how Wikipedia's API works and implemented into my project. Solved a problem from FreeCodeCamp.
 
@@ -175,7 +175,7 @@
 1. [WikiWhat Now?](https://github.com/thisiswhale/WikiWhat-Now)
 2. [Symmetric Difference](https://www.freecodecamp.org/challenges/symmetric-difference)
 
-### Day 17: January 24, 2017
+### Day 17: January 24, 2018
 
 **Today's Progress**: I was able to get JSON results from wiki to render to the page. Solved a problem from FreeCodeCamp.
 
@@ -185,7 +185,7 @@
 2. [Symmetric Difference](https://www.freecodecamp.org/challenges/symmetric-difference)
 3. [Exact Change](https://www.freecodecamp.org/challenges/exact-change)
 
-### Day 18: January 25, 2017
+### Day 18: January 25, 2018
 
 **Today's Progress**: Solved bugs on rendering issues from json to html DOM and refractoring.
 
@@ -193,7 +193,7 @@
 
 1. [WikiWhat Now?](https://github.com/thisiswhale/WikiWhat-Now)
 
-### Day 19: January 26, 2017
+### Day 19: January 26, 2018
 
 **Today's Progress**: Completed WikiWhat Now projects. Did the styling and little fun animation.
 
@@ -201,7 +201,7 @@
 
 1. [WikiWhat Now?](https://github.com/thisiswhale/WikiWhat-Now)
 
-### Day 20: January 27, 2017
+### Day 20: January 27, 2018
 
 **Today's Progress**: Started Twitch API project.
 
@@ -209,7 +209,7 @@
 
 1. [Who's on Twitch](https://github.com/thisiswhale/Whos-on-Twitch)
 
-### Day 21: January 28, 2017
+### Day 21: January 28, 2018
 
 **Today's Progress**: Used two fetch commands to place data into one array. Attempt to render into html dom.
 
@@ -217,7 +217,7 @@
 
 1. [Who's on Twitch](https://github.com/thisiswhale/Whos-on-Twitch)
 
-### Day 22: January 29, 2017
+### Day 22: January 29, 2018
 
 **Today's Progress**: Display the data to HTML.
 
@@ -225,7 +225,7 @@
 
 1. [Who's on Twitch](https://github.com/thisiswhale/Whos-on-Twitch)
 
-### Day 23: January 30, 2017
+### Day 23: January 30, 2018
 
 **Today's Progress**: Styling on Who's on Twitch.
 
@@ -233,10 +233,18 @@
 
 1. [Who's on Twitch](https://github.com/thisiswhale/Whos-on-Twitch)
 
-### Day 24: January 31, 2017
+### Day 24: January 31, 2018
 
 **Today's Progress**: Basic styling on Who's on Twitch.
 
 **Thoughts:** I added a tab bar to filter who's online and offline. I finally got my profile layout to show how I wanted.
+
+1. [Who's on Twitch](https://github.com/thisiswhale/Whos-on-Twitch)
+
+### Day 25: February 1, 2018
+
+**Today's Progress**: Achieved Search filter function and completed styling on Who's on Twitch.
+
+**Thoughts:** I completed the last Intermediate Project on FreeCodeCamp. I felt accomplished and this was not simple as I thought. Now, onward!!
 
 1. [Who's on Twitch](https://github.com/thisiswhale/Whos-on-Twitch)
