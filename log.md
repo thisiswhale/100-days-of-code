@@ -248,3 +248,11 @@
 **Thoughts:** I completed the last Intermediate Project on FreeCodeCamp. I felt accomplished and this was not simple as I thought. Now, onward!!
 
 1. [Who's on Twitch](https://github.com/thisiswhale/Whos-on-Twitch)
+
+### Day 26: February 2, 2018
+
+**Today's Progress**: Completed a problem on FreeCodeCamp
+
+**Thoughts:** Its nice to have a change of pace. I can do more coding problems now. I'm really close to finished the Front-end Certificate.
+
+1. [Exact Change](https://www.freecodecamp.org/challenges/exact-change)
