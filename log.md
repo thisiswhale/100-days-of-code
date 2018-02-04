@@ -256,3 +256,12 @@
 **Thoughts:** Its nice to have a change of pace. I can do more coding problems now. I'm really close to finished the Front-end Certificate.
 
 1. [Exact Change](https://www.freecodecamp.org/challenges/exact-change)
+
+### Day 27: February 3, 2018
+
+**Today's Progress**: Completed some problems on FreeCodeCamp
+
+**Thoughts:** Problems are getting harder, and they are becoming more technical and algorithmic. I don't have a lot of exposure to 2D arrays and solving recursive related questions. There's always something to learn.
+
+1. [Inventory Update](https://www.freecodecamp.org/challenges/inventory-update)
+2. [No Repeats Please](https://www.freecodecamp.org/challenges/no-repeats-please)
