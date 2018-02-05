@@ -265,3 +265,13 @@
 
 1. [Inventory Update](https://www.freecodecamp.org/challenges/inventory-update)
 2. [No Repeats Please](https://www.freecodecamp.org/challenges/no-repeats-please)
+
+### Day 28: February 4, 2018
+
+**Today's Progress**: Completed some problems on FreeCodeCamp
+
+**Thoughts:** It felt satisfying I completed the last three Advanced Algorithm problems. I have four projects left to get the Front-end certificate.
+
+1. [Make a Person](https://www.freecodecamp.org/challenges/make-a-person)
+2. [Map the Debris](https://www.freecodecamp.org/challenges/map-the-debris)
+2. [Pairwise](https://www.freecodecamp.org/challenges/pairwise)
