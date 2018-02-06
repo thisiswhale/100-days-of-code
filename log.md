@@ -275,3 +275,11 @@
 1. [Make a Person](https://www.freecodecamp.org/challenges/make-a-person)
 2. [Map the Debris](https://www.freecodecamp.org/challenges/map-the-debris)
 2. [Pairwise](https://www.freecodecamp.org/challenges/pairwise)
+
+### Day 29: February 5, 2018
+
+**Today's Progress**: Making a Calculator
+
+**Thoughts:** This project is straight forwards. I should be finished by tomorrow.
+
+1. [Calculator](https://www.freecodecamp.org/challenges/build-a-javascript-calculator)
