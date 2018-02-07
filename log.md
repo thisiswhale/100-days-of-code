@@ -278,8 +278,17 @@
 
 ### Day 29: February 5, 2018
 
-**Today's Progress**: Making a Calculator
+**Today's Progress**: Started Calculator
 
 **Thoughts:** This project is straight forwards. I should be finished by tomorrow.
 
 1. [Calculator](https://www.freecodecamp.org/challenges/build-a-javascript-calculator)
+
+### Day 30: February 6, 2018
+
+**Today's Progress**: Finished Calculator and started Pomodoro Timer
+
+**Thoughts:** Styling the Calculator was actually fun. It was nice to get a refresher to making a calculator from scratch.
+
+1. [Calculator](https://www.freecodecamp.org/challenges/build-a-javascript-calculator)
+2. [Pomodoro Timer](https://www.freecodecamp.org/challenges/build-a-pomodoro-clock)
