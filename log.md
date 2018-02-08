@@ -292,3 +292,11 @@
 
 1. [Calculator](https://www.freecodecamp.org/challenges/build-a-javascript-calculator)
 2. [Pomodoro Timer](https://www.freecodecamp.org/challenges/build-a-pomodoro-clock)
+
+### Day 31: February 7, 2018
+
+**Today's Progress**: Creating Pomodoro Timer
+
+**Thoughts:** This is a simple project gone complicated. I forgot how tedious you have to tell the browser to start decrementing the timer and tell it to loop at every second to act like a timer.
+
+1. [Pomodoro Timer](https://www.freecodecamp.org/challenges/build-a-pomodoro-clock)
