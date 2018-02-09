@@ -300,3 +300,11 @@
 **Thoughts:** This is a simple project gone complicated. I forgot how tedious you have to tell the browser to start decrementing the timer and tell it to loop at every second to act like a timer.
 
 1. [Pomodoro Timer](https://www.freecodecamp.org/challenges/build-a-pomodoro-clock)
+
+### Day 32: February 8, 2018
+
+**Today's Progress**: Completed Pomodoro Timer
+
+**Thoughts:** I really thought styling would be a drag but I ended up having fun. I end up having a cute Pomodoro timer with an interesting buzzer sound.
+
+1. [Pomodoro Timer](https://www.freecodecamp.org/challenges/build-a-pomodoro-clock)
