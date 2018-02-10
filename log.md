@@ -308,3 +308,11 @@
 **Thoughts:** I really thought styling would be a drag but I ended up having fun. I end up having a cute Pomodoro timer with an interesting buzzer sound.
 
 1. [Pomodoro Timer](https://www.freecodecamp.org/challenges/build-a-pomodoro-clock)
+
+### Day 33: February 9, 2018
+
+**Today's Progress**: Started Tic Tac Toe
+
+**Thoughts:** Designed the layout, looking spiffy so far. :)
+
+1. [Tic Tac Toe](https://www.freecodecamp.org/challenges/build-a-tic-tac-toe-game)

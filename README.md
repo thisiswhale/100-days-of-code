@@ -17,3 +17,9 @@ January 1, 2018.
 4. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge.
 
 ## [Log - click here to see my progress](log.md)
+
+## Goals by the end of 100 Days
+- FreeCodeCamp Front End Certificate
+- React projects
+- Update Personal Website
+- Update Past Repo Readme
