@@ -316,6 +316,7 @@
 **Thoughts:** Designed the layout, looking spiffy so far. :)
 
 1. [Tic Tac Toe](https://www.freecodecamp.org/challenges/build-a-tic-tac-toe-game)
+<<<<<<< HEAD
 
 ### Day 34: February 10, 2018
 
@@ -324,3 +325,5 @@
 **Thoughts:** I made a really simple code to check if you win. I feel I want to make the code look more elegant, like an object oriented type of code.
 
 1. [Tic Tac Toe](https://www.freecodecamp.org/challenges/build-a-tic-tac-toe-game)
+=======
+>>>>>>> master
