@@ -316,7 +316,6 @@
 **Thoughts:** Designed the layout, looking spiffy so far. :)
 
 1. [Tic Tac Toe](https://www.freecodecamp.org/challenges/build-a-tic-tac-toe-game)
-<<<<<<< HEAD
 
 ### Day 34: February 10, 2018
 
@@ -325,5 +324,11 @@
 **Thoughts:** I made a really simple code to check if you win. I feel I want to make the code look more elegant, like an object oriented type of code.
 
 1. [Tic Tac Toe](https://www.freecodecamp.org/challenges/build-a-tic-tac-toe-game)
-=======
->>>>>>> master
+
+### Day 35: February 11, 2018
+
+**Today's Progress**: Worked on Tic Tac Toe
+
+**Thoughts:** I got the win function code to work. Now I need to build the AI to make the game impossible to win for humans.
+
+1. [Tic Tac Toe](https://www.freecodecamp.org/challenges/build-a-tic-tac-toe-game)
