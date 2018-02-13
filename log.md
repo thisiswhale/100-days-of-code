@@ -332,3 +332,11 @@
 **Thoughts:** I got the win function code to work. Now I need to build the AI to make the game impossible to win for humans.
 
 1. [Tic Tac Toe](https://www.freecodecamp.org/challenges/build-a-tic-tac-toe-game)
+
+### Day 36: February 12, 2018
+
+**Today's Progress**: Worked on Tic Tac Toe
+
+**Thoughts:** I made a lot progress. I got the game to be impossible to win, at best to draw, and got the game to reset to play again. Now I have to clean the front-end and make more UX like.
+
+1. [Tic Tac Toe](https://www.freecodecamp.org/challenges/build-a-tic-tac-toe-game)
