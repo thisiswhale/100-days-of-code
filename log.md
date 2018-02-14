@@ -340,3 +340,11 @@
 **Thoughts:** I made a lot progress. I got the game to be impossible to win, at best to draw, and got the game to reset to play again. Now I have to clean the front-end and make more UX like.
 
 1. [Tic Tac Toe](https://www.freecodecamp.org/challenges/build-a-tic-tac-toe-game)
+
+### Day 36: February 12, 2018
+
+**Today's Progress**: Completed Tic Tac Toe
+
+**Thoughts:** This game now looks robust and friendly to play. :)
+
+1. [Tic Tac Toe](https://www.freecodecamp.org/challenges/build-a-tic-tac-toe-game)
