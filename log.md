@@ -341,10 +341,18 @@
 
 1. [Tic Tac Toe](https://www.freecodecamp.org/challenges/build-a-tic-tac-toe-game)
 
-### Day 36: February 12, 2018
+### Day 37: February 13, 2018
 
 **Today's Progress**: Completed Tic Tac Toe
 
 **Thoughts:** This game now looks robust and friendly to play. :)
 
 1. [Tic Tac Toe](https://www.freecodecamp.org/challenges/build-a-tic-tac-toe-game)
+
+### Day 38: February 14, 2018
+
+**Today's Progress**: Started Simon game
+
+**Thoughts:** I had an idea to make a Simon game based off of Steven Universe's Four Diamonds. I downloaded Audacity to make the edits of the sound, but I'll have to scrap that idea, since they all sound similar. Took me hours, to find the sounds and learn the software...
+
+1. [Simon Game](https://www.freecodecamp.org/challenges/build-a-simon-game)
