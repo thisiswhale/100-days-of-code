@@ -356,3 +356,11 @@
 **Thoughts:** I had an idea to make a Simon game based off of Steven Universe's Four Diamonds. I downloaded Audacity to make the edits of the sound, but I'll have to scrap that idea, since they all sound similar. Took me hours, to find the sounds and learn the software...
 
 1. [Simon Game](https://www.freecodecamp.org/challenges/build-a-simon-game)
+
+### Day 39: February 15, 2018
+
+**Today's Progress**: Worked on Simon game
+
+**Thoughts:** I decided to start designing the layout since I already got sound when I pressed the panels. I just thought it be better to look at it while designing my code.
+
+1. [Simon Game](https://www.freecodecamp.org/challenges/build-a-simon-game)
