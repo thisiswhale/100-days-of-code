@@ -364,3 +364,11 @@
 **Thoughts:** I decided to start designing the layout since I already got sound when I pressed the panels. I just thought it be better to look at it while designing my code.
 
 1. [Simon Game](https://www.freecodecamp.org/challenges/build-a-simon-game)
+
+### Day 40: February 16, 2018
+
+**Today's Progress**: Worked on Simon game
+
+**Thoughts:** I got a lot of work done. I got Simon to program like a computer, Able to wait until player gets pattern correctly, and set up levels of difficulty.
+
+1. [Simon Game](https://www.freecodecamp.org/challenges/build-a-simon-game)
