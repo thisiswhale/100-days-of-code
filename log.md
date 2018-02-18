@@ -187,7 +187,7 @@
 
 ### Day 18: January 25, 2018
 
-**Today's Progress**: Solved bugs on rendering issues from json to html DOM and refractoring.
+**Today's Progress**: Solved bugs on rendering issues from JSON to html DOM and refactoring.
 
 **Thoughts:** I was out the entire day and I tried to do as much with little free time within the day. I forgot that the fetch command is an asynchronous method that gave me return issues for my project to work.
 
@@ -282,7 +282,7 @@
 
 **Thoughts:** This project is straight forwards. I should be finished by tomorrow.
 
-1. [Calculator](https://www.freecodecamp.org/challenges/build-a-javascript-calculator)
+1. [Calculator](https://github.com/thisiswhale/Simple-Calculator)
 
 ### Day 30: February 6, 2018
 
@@ -290,8 +290,8 @@
 
 **Thoughts:** Styling the Calculator was actually fun. It was nice to get a refresher to making a calculator from scratch.
 
-1. [Calculator](https://www.freecodecamp.org/challenges/build-a-javascript-calculator)
-2. [Pomodoro Timer](https://www.freecodecamp.org/challenges/build-a-pomodoro-clock)
+1. [Calculator](https://github.com/thisiswhale/Simple-Calculator)
+2. [Pomodoro Timer](https://github.com/thisiswhale/Pomodoro-Timer)
 
 ### Day 31: February 7, 2018
 
@@ -299,7 +299,7 @@
 
 **Thoughts:** This is a simple project gone complicated. I forgot how tedious you have to tell the browser to start decrementing the timer and tell it to loop at every second to act like a timer.
 
-1. [Pomodoro Timer](https://www.freecodecamp.org/challenges/build-a-pomodoro-clock)
+1. [Pomodoro Timer](https://github.com/thisiswhale/Pomodoro-Timer)
 
 ### Day 32: February 8, 2018
 
@@ -307,7 +307,7 @@
 
 **Thoughts:** I really thought styling would be a drag but I ended up having fun. I end up having a cute Pomodoro timer with an interesting buzzer sound.
 
-1. [Pomodoro Timer](https://www.freecodecamp.org/challenges/build-a-pomodoro-clock)
+1. [Pomodoro Timer](https://github.com/thisiswhale/Pomodoro-Timer)
 
 ### Day 33: February 9, 2018
 
@@ -315,7 +315,7 @@
 
 **Thoughts:** Designed the layout, looking spiffy so far. :)
 
-1. [Tic Tac Toe](https://www.freecodecamp.org/challenges/build-a-tic-tac-toe-game)
+1. [Tic Tac Toe](https://github.com/thisiswhale/Tic-Tac-Toe)
 
 ### Day 34: February 10, 2018
 
@@ -323,7 +323,7 @@
 
 **Thoughts:** I made a really simple code to check if you win. I feel I want to make the code look more elegant, like an object oriented type of code.
 
-1. [Tic Tac Toe](https://www.freecodecamp.org/challenges/build-a-tic-tac-toe-game)
+1. [Tic Tac Toe](https://github.com/thisiswhale/Tic-Tac-Toe)
 
 ### Day 35: February 11, 2018
 
@@ -331,7 +331,7 @@
 
 **Thoughts:** I got the win function code to work. Now I need to build the AI to make the game impossible to win for humans.
 
-1. [Tic Tac Toe](https://www.freecodecamp.org/challenges/build-a-tic-tac-toe-game)
+1. [Tic Tac Toe](https://github.com/thisiswhale/Tic-Tac-Toe)
 
 ### Day 36: February 12, 2018
 
@@ -339,7 +339,7 @@
 
 **Thoughts:** I made a lot progress. I got the game to be impossible to win, at best to draw, and got the game to reset to play again. Now I have to clean the front-end and make more UX like.
 
-1. [Tic Tac Toe](https://www.freecodecamp.org/challenges/build-a-tic-tac-toe-game)
+1. [Tic Tac Toe](https://github.com/thisiswhale/Tic-Tac-Toe)
 
 ### Day 37: February 13, 2018
 
@@ -347,7 +347,7 @@
 
 **Thoughts:** This game now looks robust and friendly to play. :)
 
-1. [Tic Tac Toe](https://www.freecodecamp.org/challenges/build-a-tic-tac-toe-game)
+1. [Tic Tac Toe](https://github.com/thisiswhale/Tic-Tac-Toe)
 
 ### Day 38: February 14, 2018
 
@@ -355,7 +355,7 @@
 
 **Thoughts:** I had an idea to make a Simon game based off of Steven Universe's Four Diamonds. I downloaded Audacity to make the edits of the sound, but I'll have to scrap that idea, since they all sound similar. Took me hours, to find the sounds and learn the software...
 
-1. [Simon Game](https://www.freecodecamp.org/challenges/build-a-simon-game)
+1. [Simon Game](https://github.com/thisiswhale/Simon)
 
 ### Day 39: February 15, 2018
 
@@ -363,7 +363,7 @@
 
 **Thoughts:** I decided to start designing the layout since I already got sound when I pressed the panels. I just thought it be better to look at it while designing my code.
 
-1. [Simon Game](https://www.freecodecamp.org/challenges/build-a-simon-game)
+1. [Simon Game](https://github.com/thisiswhale/Simon)
 
 ### Day 40: February 16, 2018
 
@@ -371,4 +371,12 @@
 
 **Thoughts:** I got a lot of work done. I got Simon to program like a computer, Able to wait until player gets pattern correctly, and set up levels of difficulty.
 
-1. [Simon Game](https://www.freecodecamp.org/challenges/build-a-simon-game)
+1. [Simon Game](https://github.com/thisiswhale/Simon)
+
+### Day 41: February 17, 2018
+
+**Today's Progress**: Completed on Simon game
+
+**Thoughts:** Yes!! Simon is now live and playable. It actually looks fun to play. I got everything working as I hoped for. :)
+
+1. [Simon Game](https://github.com/thisiswhale/Simon)
