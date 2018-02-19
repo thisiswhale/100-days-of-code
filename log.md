@@ -380,3 +380,9 @@
 **Thoughts:** Yes!! Simon is now live and playable. It actually looks fun to play. I got everything working as I hoped for. :)
 
 1. [Simon Game](https://github.com/thisiswhale/Simon)
+
+### Day 42: February 18, 2018
+
+**Today's Progress**: Revised README docs in Repos
+
+**Thoughts:** I want to make my README's more cleaner and readable.
