@@ -383,6 +383,14 @@
 
 ### Day 42: February 18, 2018
 
-**Today's Progress**: Revised README docs in Repos
+**Today's Progress**: Revised README docs in Repos.
 
 **Thoughts:** I want to make my README's more cleaner and readable.
+
+### Day 43: February 19, 2018
+
+**Today's Progress**: Revised more README docs in Repos and added mobile response for Simon
+
+**Thoughts:** I just thought it be good learning to add mobile response using SASS. Very useful.
+
+1. [Simon Game](https://github.com/thisiswhale/Simon)
