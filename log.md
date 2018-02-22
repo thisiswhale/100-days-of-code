@@ -402,3 +402,11 @@
 **Thoughts:** I've been testing and playing around how React be rendered into the DOM without Webpack. I was taught to use Webpack for React but not thinking if its possible without it. I need Node.js to get Webpack to build. I'm taking a very slow pace to get started because I need to think about what are my development tools for this one. So after many considerations, I decided to add Node and Webpack for this project.
 
 1. [Markdown-Previewer](https://github.com/thisiswhale/Markdown-Previewer)
+
+### Day 45: February 21, 2018
+
+**Today's Progress**: Understanding React to build Markdown Previewer.
+
+**Thoughts:** I feel pretty flustered and overwhelmed using React. I forgot how complex React was. I'm reading its documentation and doing the FreeCodeCamp's React lessons while applying what I learn into this project so far I'm getting an error and I don't know why I'm getting that no matter how I alter it. I feel my workflow is over complicating things as I shouldn't have so many separate components.
+
+1. [Markdown-Previewer](https://github.com/thisiswhale/Markdown-Previewer)
