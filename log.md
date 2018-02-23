@@ -410,3 +410,11 @@
 **Thoughts:** I feel pretty flustered and overwhelmed using React. I forgot how complex React was. I'm reading its documentation and doing the FreeCodeCamp's React lessons while applying what I learn into this project so far I'm getting an error and I don't know why I'm getting that no matter how I alter it. I feel my workflow is over complicating things as I shouldn't have so many separate components.
 
 1. [Markdown-Previewer](https://github.com/thisiswhale/Markdown-Previewer)
+
+### Day 46: February 22, 2018
+
+**Today's Progress**: Understanding React and getting my workflow to build Markdown Previewer.
+
+**Thoughts:** I'm starting to get a hang of React again. I did more React exercises to get flow hanging. Things are started to make sense and now I'm over that wall. All the pieces are putting into place. Its just jumping hurdles from here on then. My SASS preprocessor works. I can have webpack and node-sass watch over my code every time I save. I decided to add Bootstrap and wow, the documentation makes sense to me now that I know more CSS and SASS material. Feeling excited.
+
+1. [Markdown-Previewer](https://github.com/thisiswhale/Markdown-Previewer)
