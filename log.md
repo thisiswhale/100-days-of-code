@@ -418,3 +418,11 @@
 **Thoughts:** I'm starting to get a hang of React again. I did more React exercises to get flow hanging. Things are started to make sense and now I'm over that wall. All the pieces are putting into place. Its just jumping hurdles from here on then. My SASS preprocessor works. I can have webpack and node-sass watch over my code every time I save. I decided to add Bootstrap and wow, the documentation makes sense to me now that I know more CSS and SASS material. Feeling excited.
 
 1. [Markdown-Previewer](https://github.com/thisiswhale/Markdown-Previewer)
+
+### Day 47: February 23, 2018
+
+**Today's Progress**: Still working Markdown Previewer.
+
+**Thoughts:** I'm really close to finishing this app. I really forgot how React conventions work, and I'm glad things are coming back quickly. I relearned how to update changes, and the importance of binding. I'm starting to get the hang of passing state into props so other Classes can use it.
+
+1. [Markdown-Previewer](https://github.com/thisiswhale/Markdown-Previewer)
