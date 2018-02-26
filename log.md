@@ -426,3 +426,12 @@
 **Thoughts:** I'm really close to finishing this app. I really forgot how React conventions work, and I'm glad things are coming back quickly. I relearned how to update changes, and the importance of binding. I'm starting to get the hang of passing state into props so other Classes can use it.
 
 1. [Markdown-Previewer](https://github.com/thisiswhale/Markdown-Previewer)
+
+### Day 48: February 25, 2018
+
+**Today's Progress**: Completed Markdown Previewer. Started next project.
+
+**Thoughts:** I really learned a lot using React in this project. I had fun making this project. I'm glad I'm seeing different viewpoints of React.
+
+1. [Markdown-Previewer](https://github.com/thisiswhale/Markdown-Previewer)
+2. [Forum Leaderboard](https://github.com/thisiswhale/Forum-Leaderboard)
