@@ -435,3 +435,11 @@
 
 1. [Markdown-Previewer](https://github.com/thisiswhale/Markdown-Previewer)
 2. [Forum Leaderboard](https://github.com/thisiswhale/Forum-Leaderboard)
+
+### Day 49: February 26, 2018
+
+**Today's Progress**: Fixing a bug for Leaderboard.
+
+**Thoughts:** I think I spent an hour why I'm getting a blank page when it turns out I was missing an '=' for my src attribute in my script tag in the HTML DOM. Embarrasing. Well I'm glad its working now. I sort of know how to get this going.
+
+1. [Forum Leaderboard](https://github.com/thisiswhale/Forum-Leaderboard)
