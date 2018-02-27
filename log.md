@@ -443,3 +443,11 @@
 **Thoughts:** I think I spent an hour why I'm getting a blank page when it turns out I was missing an '=' for my src attribute in my script tag in the HTML DOM. Embarrasing. Well I'm glad its working now. I sort of know how to get this going.
 
 1. [Forum Leaderboard](https://github.com/thisiswhale/Forum-Leaderboard)
+
+### Day 50: February 27, 2018
+
+**Today's Progress**: Working on Leaderboard.
+
+**Thoughts:** I managed to get my simple APIs to render to the DOM with React, now I tried to refractor my code but I'm having issues to render different ways.
+
+1. [Forum Leaderboard](https://github.com/thisiswhale/Forum-Leaderboard)
