@@ -427,7 +427,7 @@
 
 1. [Markdown-Previewer](https://github.com/thisiswhale/Markdown-Previewer)
 
-### Day 48: February 25, 2018
+### Day 48: February 24, 2018
 
 **Today's Progress**: Completed Markdown Previewer. Started next project.
 
@@ -436,7 +436,7 @@
 1. [Markdown-Previewer](https://github.com/thisiswhale/Markdown-Previewer)
 2. [Forum Leaderboard](https://github.com/thisiswhale/Forum-Leaderboard)
 
-### Day 49: February 26, 2018
+### Day 49: February 25, 2018
 
 **Today's Progress**: Fixing a bug for Leaderboard.
 
@@ -444,10 +444,18 @@
 
 1. [Forum Leaderboard](https://github.com/thisiswhale/Forum-Leaderboard)
 
-### Day 50: February 27, 2018
+### Day 50: February 26, 2018
 
 **Today's Progress**: Working on Leaderboard.
 
 **Thoughts:** I managed to get my simple APIs to render to the DOM with React, now I tried to refractor my code but I'm having issues to render different ways.
+
+1. [Forum Leaderboard](https://github.com/thisiswhale/Forum-Leaderboard)
+
+### Day 51: February 27, 2018
+
+**Today's Progress**: Completed Leaderboard.
+
+**Thoughts:** This project took longer than I thought. I had a huge error I'm not sure how to solve. I had to do some React exercises on FreeCodeCamp if something struck a lightbulb. I asked online for help and they did. I'm happy with how it looks.
 
 1. [Forum Leaderboard](https://github.com/thisiswhale/Forum-Leaderboard)
