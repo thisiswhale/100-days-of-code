@@ -459,3 +459,12 @@
 **Thoughts:** This project took longer than I thought. I had a huge error I'm not sure how to solve. I had to do some React exercises on FreeCodeCamp if something struck a lightbulb. I asked online for help and they did. I'm happy with how it looks.
 
 1. [Forum Leaderboard](https://github.com/thisiswhale/Forum-Leaderboard)
+
+### Day 52: February 28, 2018
+
+**Today's Progress**: Building a workflow with Webpack. Starting next project
+
+**Thoughts:** I spent all day reading up on Webpack documentations to build the ultimate Webpack complier for my React and SASS projects. I learned so much about Webpack than I did before. Turns out, Webpack 4 is a hot new library to use. I'm glad I got a taste how to make my own Webpack config. I just want to make my next project build with a proper workflow where Webpack can compile both SASS and React.
+
+1. [Recipe Box](https://github.com/thisiswhale/Recipe-Box)
+2. [Webpack 4 with React and Sass](https://github.com/thisiswhale/Webpack-4-with-React-and-Sass)
