@@ -468,3 +468,11 @@
 
 1. [Recipe Box](https://github.com/thisiswhale/Recipe-Box)
 2. [Webpack 4 with React and Sass](https://github.com/thisiswhale/Webpack-4-with-React-and-Sass)
+
+### Day 52: February 28, 2018
+
+**Today's Progress**: Sampling to use Semantics or Bootstrap with React
+
+**Thoughts:** I'm not so sure how to make cool css features in React since animated styles requires JS. I'm having confusion converting JS into React conventions. I decided to check Semantics and Bootstrap since they have its own CSS library that works with React. This will be good practice to use more libraries with React.
+
+1. [Recipe Box](https://github.com/thisiswhale/Recipe-Box)
