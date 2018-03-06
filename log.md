@@ -484,3 +484,19 @@
 **Thoughts:** I'm learning how Bootstrap works with React. So far its straight forward.
 
 1. [Recipe Box](https://github.com/thisiswhale/Recipe-Box)
+
+### Day 55: March 3, 2018
+
+**Today's Progress**: Still working on Recipe Box
+
+**Thoughts:** Able to add a recipe. So many detail steps to add a tab.
+
+1. [Recipe Box](https://github.com/thisiswhale/Recipe-Box)
+
+### Day 56: March 4, 2018
+
+**Today's Progress**: Recipe app can update and delete a recipe card in own's localStorage.
+
+**Thoughts:** I made a lot of progress and I'm almost done.  I just need to refractor and style it.
+
+1. [Recipe Box](https://github.com/thisiswhale/Recipe-Box)
