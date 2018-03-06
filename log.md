@@ -500,3 +500,11 @@
 **Thoughts:** I made a lot of progress and I'm almost done.  I just need to refractor and style it.
 
 1. [Recipe Box](https://github.com/thisiswhale/Recipe-Box)
+
+### Day 57: March 5, 2018
+
+**Today's Progress**: Refractor code by splitting into Components and pass as props.
+
+**Thoughts:** There was a day I forget to push my log, so a recent commit I push had two log posts. Anyways.. I'm happy of my result. I learned alot about passing props and I feel I shouldn't attempt on doing everything on a Component and then split it to make it more readable. Though, its a learning process to get used to React conventions, it feels redundant.
+
+1. [Recipe Box](https://github.com/thisiswhale/Recipe-Box)
