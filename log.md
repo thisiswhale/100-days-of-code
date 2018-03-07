@@ -508,3 +508,11 @@
 **Thoughts:** There was a day I forget to push my log, so a recent commit I push had two log posts. Anyways.. I'm happy of my result. I learned alot about passing props and I feel I shouldn't attempt on doing everything on a Component and then split it to make it more readable. Though, its a learning process to get used to React conventions, it feels redundant.
 
 1. [Recipe Box](https://github.com/thisiswhale/Recipe-Box)
+
+### Day 58: March 6, 2018
+
+**Today's Progress**: Started Game of Life: rendering dynamic grid size
+
+**Thoughts:** This project sounds challenging yet exciting. This involves a lot of math theory and I find it interesting.
+
+1. [Game Of Life](https://github.com/thisiswhale/Game-of-life)
