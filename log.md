@@ -516,3 +516,11 @@
 **Thoughts:** This project sounds challenging yet exciting. This involves a lot of math theory and I find it interesting.
 
 1. [Game Of Life](https://github.com/thisiswhale/Game-of-life)
+
+### Day 59: March 7, 2018
+
+**Today's Progress**: Enable grid selection for Game of Life
+
+**Thoughts:** I was worried that the math part would be a challenge, but I realize that styling the whole layout is also a challenge. Like changing the background color of a button. For example, one of the three buttons can only be lit. If I press a different button, the others change back its background color.
+
+1. [Game Of Life](https://github.com/thisiswhale/Game-of-life)
