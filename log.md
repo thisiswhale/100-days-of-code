@@ -524,3 +524,11 @@
 **Thoughts:** I was worried that the math part would be a challenge, but I realize that styling the whole layout is also a challenge. Like changing the background color of a button. For example, one of the three buttons can only be lit. If I press a different button, the others change back its background color.
 
 1. [Game Of Life](https://github.com/thisiswhale/Game-of-life)
+
+### Day 60: March 9, 2018
+
+**Today's Progress**: Fix layout of the website
+
+**Thoughts:** I skipped a day because I went to a career tech job fair yesterday that literally drained me to do anything. I've been preparing my resume for the job fair. I decided to start positioning my site before tackling the math stuff.
+
+1. [Game Of Life](https://github.com/thisiswhale/Game-of-life)
