@@ -532,3 +532,11 @@
 **Thoughts:** I skipped a day because I went to a career tech job fair yesterday that literally drained me to do anything. I've been preparing my resume for the job fair. I decided to start positioning my site before tackling the math stuff.
 
 1. [Game Of Life](https://github.com/thisiswhale/Game-of-life)
+
+### Day 6!: March 10, 2018
+
+**Today's Progress**: Learning Redux and more layout styling.
+
+**Thoughts:** I've been thinking that I might need Redux for this project, so I did some Redux exercises to start thinking how to manage the state. Right now, I'm lost with the logic how a cell checks its neighbors. I decided to make my layout look prettier for now.
+
+1. [Game Of Life](https://github.com/thisiswhale/Game-of-life)
