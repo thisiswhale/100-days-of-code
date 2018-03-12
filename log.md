@@ -533,10 +533,18 @@
 
 1. [Game Of Life](https://github.com/thisiswhale/Game-of-life)
 
-### Day 6!: March 10, 2018
+### Day 61: March 10, 2018
 
 **Today's Progress**: Learning Redux and more layout styling.
 
 **Thoughts:** I've been thinking that I might need Redux for this project, so I did some Redux exercises to start thinking how to manage the state. Right now, I'm lost with the logic how a cell checks its neighbors. I decided to make my layout look prettier for now.
+
+1. [Game Of Life](https://github.com/thisiswhale/Game-of-life)
+
+### Day 62: March 11, 2018
+
+**Today's Progress**: Refractor code.
+
+**Thoughts:** I've looking into some tutorials, and I decided to make it more cleaner and consistent with React's fundamentals.
 
 1. [Game Of Life](https://github.com/thisiswhale/Game-of-life)
