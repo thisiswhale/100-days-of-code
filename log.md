@@ -548,3 +548,11 @@
 **Thoughts:** I've looking into some tutorials, and I decided to make it more cleaner and consistent with React's fundamentals.
 
 1. [Game Of Life](https://github.com/thisiswhale/Game-of-life)
+
+### Day 63: March 12, 2018
+
+**Today's Progress**: Completed main logic for Game of Life
+
+**Thoughts:** I finally got my code to work. I'm so happy my code is working.
+
+1. [Game Of Life](https://github.com/thisiswhale/Game-of-life)
