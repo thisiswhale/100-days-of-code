@@ -556,3 +556,12 @@
 **Thoughts:** I finally got my code to work. I'm so happy my code is working.
 
 1. [Game Of Life](https://github.com/thisiswhale/Game-of-life)
+
+### Day 64: March 13, 2018
+
+**Today's Progress**: Cleaned Game of Life code, update readme. Did some code problems on CodeFlights. Started Roguelike Dungeon Crawler game.
+
+**Thoughts:** I spent a lot of time organizing my code and I'm happy the way how my UI turned out. I found another site where it helps you improve your code solving problems while help you look for a job. I tried it out, but I brain felt drained. So I got stuck by some of their code problems when they are asking me to complete in ten minutes. I created a new Repo for my last React project. This one looks very challenging.
+
+1. [Game Of Life](https://github.com/thisiswhale/Game-of-life)
+2. [Roguelike Dungeon Crawler](https://github.com/thisiswhale/Roguelike-Dungeon-Crawler)
