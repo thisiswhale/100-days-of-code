@@ -573,3 +573,11 @@
 **Thoughts:** I decided to add a linter on the project to try out the AirBnb code standards.
 
 1. [Roguelike Dungeon Crawler](https://github.com/thisiswhale/Roguelike-Dungeon-Crawler)
+
+### Day 66: March 15, 2018
+
+**Today's Progress**: Fixing webpack tools with eslint.
+
+**Thoughts:** ESlint is very touchy with my code. Reasons my code won't run is because I'm not following right practices writing my code. I had webpack errors due to eslint so I spent most of today resolving this issue.
+
+1. [Roguelike Dungeon Crawler](https://github.com/thisiswhale/Roguelike-Dungeon-Crawler)
