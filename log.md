@@ -565,3 +565,11 @@
 
 1. [Game Of Life](https://github.com/thisiswhale/Game-of-life)
 2. [Roguelike Dungeon Crawler](https://github.com/thisiswhale/Roguelike-Dungeon-Crawler)
+
+### Day 65: March 14, 2018
+
+**Today's Progress**: Added a linter on Dungeon Crawler
+
+**Thoughts:** I decided to add a linter on the project to try out the AirBnb code standards.
+
+1. [Roguelike Dungeon Crawler](https://github.com/thisiswhale/Roguelike-Dungeon-Crawler)
