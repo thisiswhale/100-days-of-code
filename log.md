@@ -581,3 +581,11 @@
 **Thoughts:** ESlint is very touchy with my code. Reasons my code won't run is because I'm not following right practices writing my code. I had webpack errors due to eslint so I spent most of today resolving this issue.
 
 1. [Roguelike Dungeon Crawler](https://github.com/thisiswhale/Roguelike-Dungeon-Crawler)
+
+### Day 67: March 16, 2018
+
+**Today's Progress**: Learning Redux and adding CharacterInfo Component.
+
+**Thoughts:** ESlint is troubling me, its always showing red underlines and shows status that I shouldn't be doing. For example using i++ in a for loop. I think I'm going to remove it from my project because its wasting my time trying to make my code look standard and questionable about what is standard. I don't think I'm handling it correctly. I should work with eslint on something basic to get used to the convention.
+
+1. [Roguelike Dungeon Crawler](https://github.com/thisiswhale/Roguelike-Dungeon-Crawler)
