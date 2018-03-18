@@ -589,3 +589,11 @@
 **Thoughts:** ESlint is troubling me, its always showing red underlines and shows status that I shouldn't be doing. For example using i++ in a for loop. I think I'm going to remove it from my project because its wasting my time trying to make my code look standard and questionable about what is standard. I don't think I'm handling it correctly. I should work with eslint on something basic to get used to the convention.
 
 1. [Roguelike Dungeon Crawler](https://github.com/thisiswhale/Roguelike-Dungeon-Crawler)
+
+### Day 68: March 17, 2018
+
+**Today's Progress**: Learning to create a Map Generator
+
+**Thoughts:** There's alot of steps I'm stuck to code like generating a random map, and having a character to randomize. I figure I need a generator map first before i can place characters and items.
+
+1. [Roguelike Dungeon Crawler](https://github.com/thisiswhale/Roguelike-Dungeon-Crawler)
