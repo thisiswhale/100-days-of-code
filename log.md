@@ -597,3 +597,11 @@
 **Thoughts:** There's alot of steps I'm stuck to code like generating a random map, and having a character to randomize. I figure I need a generator map first before i can place characters and items.
 
 1. [Roguelike Dungeon Crawler](https://github.com/thisiswhale/Roguelike-Dungeon-Crawler)
+
+### Day 69: March 18, 2018
+
+**Today's Progress**: Build a Map Generator
+
+**Thoughts:** I found a tutorial creating a map generator and theres a lot of stuff going on. I need to read over and over to grasp the logic.
+
+1. [Roguelike Dungeon Crawler](https://github.com/thisiswhale/Roguelike-Dungeon-Crawler)
