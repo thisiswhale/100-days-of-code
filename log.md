@@ -600,8 +600,14 @@
 
 ### Day 69: March 18, 2018
 
-**Today's Progress**: Build a Map Generator
+**Today's Progress**: Build a Map Generator.
 
 **Thoughts:** I found a tutorial creating a map generator and theres a lot of stuff going on. I need to read over and over to grasp the logic.
 
 1. [Roguelike Dungeon Crawler](https://github.com/thisiswhale/Roguelike-Dungeon-Crawler)
+
+### Day 70: March 19, 2018
+
+**Today's Progress**: Brainstorm for potential projects.
+
+**Thoughts:** I spent a good chunk of time brainstorming for my next project I want to code for a month. I want to take a break away from my game.
