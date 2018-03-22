@@ -611,3 +611,19 @@
 **Today's Progress**: Brainstorm for potential projects.
 
 **Thoughts:** I spent a good chunk of time brainstorming for my next project I want to code for a month. I want to take a break away from my game.
+
+### Day 71: March 20, 2018
+
+**Today's Progress**: Build random room generator for the map.
+
+**Thoughts:** This tutorial I followed has a nice explanation how map generators work, but its a lot of code so that took me a long time to understand what tis doing.
+
+1. [Roguelike Dungeon Crawler](https://github.com/thisiswhale/Roguelike-Dungeon-Crawler)
+
+### Day 72: March 21, 2018
+
+**Today's Progress**: Implement event listener for key press and add Cartesian coordinates to locate player.
+
+**Thoughts:** I was struggling why React wouldn't listen when I press key buttons on a div. It only works works for input. So it took me a while to decide to use DOM listeners. I'm gonna need the player's coordinates so I added it into the tables attributes.
+
+1. [Roguelike Dungeon Crawler](https://github.com/thisiswhale/Roguelike-Dungeon-Crawler)
