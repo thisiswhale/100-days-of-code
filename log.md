@@ -627,3 +627,12 @@
 **Thoughts:** I was struggling why React wouldn't listen when I press key buttons on a div. It only works works for input. So it took me a while to decide to use DOM listeners. I'm gonna need the player's coordinates so I added it into the tables attributes.
 
 1. [Roguelike Dungeon Crawler](https://github.com/thisiswhale/Roguelike-Dungeon-Crawler)
+
+### Day 73: March 22, 2018
+
+**Today's Progress**: Testing Canvas
+
+**Thoughts:** I'm starting a new project using Canvas. I've been researching what Canvas is about and testing its features. I'm planning to build a Pixel Art Editor. Also, I want to still work on my Roguelike Dungeon Game. So wish me luck, building two different projects simultaneously.
+
+1. [Roguelike Dungeon Crawler](https://github.com/thisiswhale/Roguelike-Dungeon-Crawler)
+2. [Canvas Sandbox](https://github.com/thisiswhale/Canvas-Sandbox)
