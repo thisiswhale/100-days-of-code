@@ -636,3 +636,11 @@
 
 1. [Roguelike Dungeon Crawler](https://github.com/thisiswhale/Roguelike-Dungeon-Crawler)
 2. [Canvas Sandbox](https://github.com/thisiswhale/Canvas-Sandbox)
+
+### Day 74: March 24, 2018
+
+**Today's Progress**: Testing Canvas
+
+**Thoughts:** I decided to take a break the other day. As much I wanted to work on it, I wasn't in the right mood. I was able to create a table grid. Most important feature is to able to fill in the cell with color. I'm still figuring that out.
+
+1. [Canvas Sandbox](https://github.com/thisiswhale/Canvas-Sandbox)
