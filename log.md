@@ -644,3 +644,11 @@
 **Thoughts:** I decided to take a break the other day. As much I wanted to work on it, I wasn't in the right mood. I was able to create a table grid. Most important feature is to able to fill in the cell with color. I'm still figuring that out.
 
 1. [Canvas Sandbox](https://github.com/thisiswhale/Canvas-Sandbox)
+
+### Day 75: March 26, 2018
+
+**Today's Progress**: Started Pixel Art Pixel Editor
+
+**Thoughts:** Feels like I've looked enough of Canvas to start the project. I have most of the code saved up on my Sandbox repo. There's a new gitflow method I'm trying out.
+
+1. [Pixel Art Editor](https://github.com/thisiswhale/Pixel-Art-Editor)
