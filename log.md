@@ -652,3 +652,11 @@
 **Thoughts:** Feels like I've looked enough of Canvas to start the project. I have most of the code saved up on my Sandbox repo. There's a new gitflow method I'm trying out.
 
 1. [Pixel Art Editor](https://github.com/thisiswhale/Pixel-Art-Editor)
+
+### Day 76: March 27, 2018
+
+**Today's Progress**: Add button elements to Pixel Art Pixel Editor
+
+**Thoughts:** I only had time today to put button elements with the icons I found online. I'm using Font Awesome. However, it does not have some icons I need for the editor like a paint bucket or color palette. I probably have to save svg files from different source instead.
+
+1. [Pixel Art Editor](https://github.com/thisiswhale/Pixel-Art-Editor)
