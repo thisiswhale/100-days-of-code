@@ -660,3 +660,9 @@
 **Thoughts:** I only had time today to put button elements with the icons I found online. I'm using Font Awesome. However, it does not have some icons I need for the editor like a paint bucket or color palette. I probably have to save svg files from different source instead.
 
 1. [Pixel Art Editor](https://github.com/thisiswhale/Pixel-Art-Editor)
+
+### Day 77: March 28, 2018
+
+**Today's Progress**: C# review and preparing tomorrow's interview
+
+**Thoughts:** The interview is tomorrow and I feel nervous, like most us feel for an interview. I feel pretty good about know most of C# fundamentals. I got to know more how their classes and methods work. Though I wished I put hours to work my projects. Its almost the end of my 100 day challenge. It feels like I've never did the challenge and just think about to keep learning. Let's make these days count!!
