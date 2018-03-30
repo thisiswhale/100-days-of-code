@@ -666,3 +666,9 @@
 **Today's Progress**: C# review and preparing tomorrow's interview
 
 **Thoughts:** The interview is tomorrow and I feel nervous, like most us feel for an interview. I feel pretty good about know most of C# fundamentals. I got to know more how their classes and methods work. Though I wished I put hours to work my projects. Its almost the end of my 100 day challenge. It feels like I've never did the challenge and just think about to keep learning. Let's make these days count!!
+
+### Day 78: March 29, 2018
+
+**Today's Progress**: Revising my portfolio
+
+**Thoughts:** I feel I did pretty good on my interview, he asked me a pretty simple whiteboard question which took me less than 2 minutes to debunk it. It feels like a good conversation, but I honestly think I'm not the person he'd want me to hire. He wants someone who's familiar with C#. But I think I'll be fine. Feels like a mood booster to think it didn't go horribly bad. Now I want to revise my portfolio. 
