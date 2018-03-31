@@ -671,4 +671,10 @@
 
 **Today's Progress**: Revising my portfolio
 
-**Thoughts:** I feel I did pretty good on my interview, he asked me a pretty simple whiteboard question which took me less than 2 minutes to debunk it. It feels like a good conversation, but I honestly think I'm not the person he'd want me to hire. He wants someone who's familiar with C#. But I think I'll be fine. Feels like a mood booster to think it didn't go horribly bad. Now I want to revise my portfolio. 
+**Thoughts:** I feel I did pretty good on my interview, he asked me a pretty simple whiteboard question which took me less than 2 minutes to debunk it. It feels like a good conversation, but I honestly think I'm not the person he'd want me to hire. He wants someone who's familiar with C#. But I think I'll be fine. Feels like a mood booster to think it didn't go horribly bad. Now I want to revise my portfolio.
+
+### Day 79: March 30, 2018
+
+**Today's Progress**: Revising my portfolio
+
+**Thoughts:** I really wanted to use Semantics UI, but there are so many bugs within React and the CSS version that I had to switch to Bootstrap. It was not worth my time to invest in it as it doesn't put out how I wanted. I had to restart my portfolio.
