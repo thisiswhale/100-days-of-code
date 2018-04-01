@@ -678,3 +678,9 @@
 **Today's Progress**: Revising my portfolio
 
 **Thoughts:** I really wanted to use Semantics UI, but there are so many bugs within React and the CSS version that I had to switch to Bootstrap. It was not worth my time to invest in it as it doesn't put out how I wanted. I had to restart my portfolio.
+
+### Day 80: March 31, 2018
+
+**Today's Progress**: Revising my portfolio
+
+**Thoughts:** I'm comparing my code with someone else's portfolio. I really like this person's style. At the same time, I'm looking at updated bootstrap concepts that were outdated and comparing them with his portfolio. Wow, 19 more days. I need to speed things up.
