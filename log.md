@@ -684,3 +684,9 @@
 **Today's Progress**: Revising my portfolio
 
 **Thoughts:** I'm comparing my code with someone else's portfolio. I really like this person's style. At the same time, I'm looking at updated bootstrap concepts that were outdated and comparing them with his portfolio. Wow, 19 more days. I need to speed things up.
+
+### Day 81: April 1, 2018
+
+**Today's Progress**: Revising my portfolio
+
+**Thoughts:** I'm building the contents on the skills section.
