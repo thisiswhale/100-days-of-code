@@ -690,3 +690,9 @@
 **Today's Progress**: Revising my portfolio
 
 **Thoughts:** I'm building the contents on the skills section.
+
+### Day 82: April 2, 2018
+
+**Today's Progress**: Revising my portfolio
+
+**Thoughts:** Finish up Contact content.
