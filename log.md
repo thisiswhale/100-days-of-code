@@ -696,3 +696,9 @@
 **Today's Progress**: Revising my portfolio
 
 **Thoughts:** Finish up Contact content.
+
+### Day 83: April 3, 2018
+
+**Today's Progress**: Revising my portfolio
+
+**Thoughts:** I'm close to done with my portfolio. I need to make my website mobile responsive and add my descriptions.
