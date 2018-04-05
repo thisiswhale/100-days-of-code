@@ -702,3 +702,9 @@
 **Today's Progress**: Revising my portfolio
 
 **Thoughts:** I'm close to done with my portfolio. I need to make my website mobile responsive and add my descriptions.
+
+### Day 84: April 4, 2018
+
+**Today's Progress**: Revising my portfolio
+
+**Thoughts:** All I need left is to make website responsive and polish the styling.
