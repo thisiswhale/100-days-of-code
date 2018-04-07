@@ -714,3 +714,9 @@
 **Today's Progress**: Finished portfolio.
 
 **Thoughts:** I finally added the responsive part and everything looks nice. I didn't think this would take this long but I'm happy how it turned out.
+
+### Day 86: April 6, 2018
+
+**Today's Progress**: Revise portfolio.
+
+**Thoughts:** Today, I did grammar revision and asked a peer to check my portfolio if everything looked fine. Also, I added a smooth slide scroll effect for the navbar menu. Everything looks professional.
