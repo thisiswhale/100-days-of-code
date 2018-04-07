@@ -708,3 +708,9 @@
 **Today's Progress**: Revising my portfolio
 
 **Thoughts:** All I need left is to make website responsive and polish the styling.
+
+### Day 85: April 5, 2018
+
+**Today's Progress**: Finished portfolio.
+
+**Thoughts:** I finally added the responsive part and everything looks nice. I didn't think this would take this long but I'm happy how it turned out.
