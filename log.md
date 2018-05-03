@@ -720,3 +720,9 @@
 **Today's Progress**: Revise portfolio.
 
 **Thoughts:** Today, I did grammar revision and asked a peer to check my portfolio if everything looked fine. Also, I added a smooth slide scroll effect for the navbar menu. Everything looks professional.
+
+### Day 87: May 2, 2018
+
+**Today's Progress**: Revise a bunch of old Github repos.
+
+**Thoughts:** I apologize for not being consistent on my 100 days of code challenge. A month ago from now, I felt under the weather and unmotivated to do anything. Though I did code here and there but I didn't spent an hour a day doing it. I know I have two other projects that I need to accomplish and I will complete it. I wanted to make my Github profile better and what better way is to create Readme I haven't done. It be better for me so I don't look lost researching for a repo to look over. 
